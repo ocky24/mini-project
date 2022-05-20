@@ -1,0 +1,12 @@
+starter\definitions\RegisterSteps.class
+starter\pages\HomePage.class
+starter\pages\ToolsCategoryPage.class
+starter\definitions\LoginSteps.class
+starter\CucumberTestSuite.class
+starter\pages\DetailRatingPage.class
+starter\pages\LoginPage.class
+starter\definitions\BuySteps.class
+starter\definitions\ToolsCategorySteps.class
+starter\definitions\DetailSteps.class
+starter\pages\BuyPage.class
+starter\pages\RegisterPage.class
